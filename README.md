@@ -60,7 +60,7 @@ Follow these steps to awaken the Force within this chatbot:
    - Expected output:
      ```
      True
-     NVIDIA GeForce RTX 4050 Laptop GPU
+     NVIDIA GeForce RTX 4050 Laptop GPU (or your current gpu specs)
      ```
 
 ## Usage
