@@ -21,7 +21,7 @@ Follow these steps to awaken the Force within this chatbot:
 
 1. **Clone the Repository** (if using Git):
    ```powershell
-   git clone <repository-url>
+   git clone https://github.com/elif-absrd/Yoda_ai_chatbot
    cd chatbot_yoda
    ```
 
