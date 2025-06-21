@@ -13,7 +13,7 @@ Before you begin, ensure your system is ready, young Padawan:
 - **Python**: Version 3.8 or higher.
 - **GPU**: NVIDIA GPU with at least 6GB VRAM and CUDA 12.1 or higher.
 - **Operating System**: Windows (tested on Windows with PowerShell).
-- **Hugging Face Account**: A token to access models (stored at `C:\Users\<your-username>\.cache\huggingface\token`).
+- **Hugging Face Account**: A token to access models (mine was stored at `C:\Users\<your-username>\.cache\huggingface\token`).
 
 ## Setup Instructions
 
@@ -73,8 +73,8 @@ Run the chatbot and speak with Yoda, you shall:
    ```
 
 2. **Interact with Yoda**:
-   - Type your question or greeting (e.g., “hello”, “what is a tree structure in DSA”, “who is the current president of India”).
-   - To exit, type `quit`.
+   - Type your question or greeting.
+   - To exit, type `order66`.
 
 3. **Example Interactions**:
    ```
@@ -136,6 +136,7 @@ One problem that persists is puntuation errors cause I am kindof rearranging the
 
 - **Hugging Face**: For the `google/gemma-2-2b-it` model.
 - **PyTorch Team**: For Flash Attention support in nightly builds.
-- **Star Wars**: For the wisdom of Master Yoda, inspiring this project it did.
 
-May the Force be with you, always!
+May the Force be with you:b
+
+If you find any mistakes and difficulty in following the steps, please feel free to reach out.Thank you...
